@@ -1,0 +1,24 @@
+body {
+    background: #E0DF84
+}
+
+H1 { text-align: center;
+	color: #F54725
+ }
+
+h2 { text-aline center; 
+color: #FFF8DC; }
+p {
+    text-align: left;
+}
+
+em strong {
+    color: #FF0000;
+}
+#bandeira {
+    width: 60%;
+    height: 250px;
+    margin-left: 250px;
+    padding: 15px;
+    border: 5px dotted red;
+}
